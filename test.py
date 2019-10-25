@@ -36,3 +36,5 @@ def balance_check(s):
     return len(stack) == 0
 
 print(balance_check('[](()()))('))
+
+# added this line
